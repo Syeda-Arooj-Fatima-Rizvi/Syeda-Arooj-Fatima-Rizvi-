@@ -1,5 +1,4 @@
 ![logo]https://github.com/Syeda-Arooj-Fatima-Rizvi/Syeda-Arooj-Fatima-Rizvi-/blob/main/%23include%20stdio.h%20int%20main()%20%7B%20printf(Syeda%20Arooj%20Fatima%20Rizvin)%3B%20return%200%3B%20%7D.png
-
 <h1 align="center">Hi 👋, I'm Syeda Arooj Fatima Rizvi</h1>
 <h3 align="center">A student of Computer Science</h3>
 
